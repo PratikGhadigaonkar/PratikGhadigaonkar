@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PratikGhadigaonkar
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related Web development
 - 📫 How to reach me www.linkedin.com/in/pratik-ghadigaonkar-77b469243
 <!---
 PratikGhadigaonkar/PratikGhadigaonkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
